@@ -1,42 +1,216 @@
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\appsettings.json
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\MvcMovie.exe
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\MvcMovie.deps.json
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.json
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.dev.json
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\MvcMovie.dll
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\ref\MvcMovie.dll
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.AssemblyReference.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorCoreGenerate.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.Views.pdb
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.dll
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\index.cshtml.g.cs
-C:\Users\Samsung\OneDrive\Área de Trabalho\Projeto Dotnet\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/appsettings.json
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/MvcMovie.exe
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/MvcMovie.deps.json
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/MvcMovie.runtimeconfig.json
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/MvcMovie.runtimeconfig.dev.json
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/MvcMovie.dll
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/ref/MvcMovie.dll
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/MvcMovie.pdb
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/MvcMovie.Views.dll
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/bin/Debug/net5.0/MvcMovie.Views.pdb
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.csproj.AssemblyReference.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.AssemblyInfoInputs.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.AssemblyInfo.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.csproj.CoreCompileInputs.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.RazorAssemblyInfo.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.RazorAssemblyInfo.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/staticwebassets/MvcMovie.StaticWebAssets.Manifest.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/staticwebassets/MvcMovie.StaticWebAssets.xml
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/scopedcss/bundle/MvcMovie.styles.css
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.TagHelpers.input.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.TagHelpers.output.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.RazorCoreGenerate.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.RazorTargetAssemblyInfo.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.RazorTargetAssemblyInfo.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.Views.pdb
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.dll
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/ref/MvcMovie.dll
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.pdb
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.genruntimeconfig.cache
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/MvcMovie.csproj.CopyComplete
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/HelloWorld/index.cshtml.g.cs
+C:/Users/Samsung/OneDrive/Área de Trabalho/Projeto Dotnet/MvcMovie/obj/Debug/net5.0/Razor/Views/HelloWorld/Welcome.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/appsettings.Development.json
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/appsettings.json
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/MvcMovie
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/MvcMovie.deps.json
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/MvcMovie.runtimeconfig.json
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/MvcMovie.runtimeconfig.dev.json
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/MvcMovie.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ref/MvcMovie.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/MvcMovie.pdb
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/MvcMovie.Views.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/MvcMovie.Views.pdb
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.csproj.AssemblyReference.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.AssemblyInfoInputs.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.AssemblyInfo.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.csproj.CoreCompileInputs.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.RazorAssemblyInfo.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.RazorAssemblyInfo.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/staticwebassets/MvcMovie.StaticWebAssets.Manifest.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/staticwebassets/MvcMovie.StaticWebAssets.xml
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/scopedcss/bundle/MvcMovie.styles.css
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.TagHelpers.input.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.TagHelpers.output.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.RazorCoreGenerate.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/HelloWorld/Index.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/HelloWorld/Welcome.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.RazorTargetAssemblyInfo.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.RazorTargetAssemblyInfo.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.Views.pdb
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/ref/MvcMovie.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.pdb
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.genruntimeconfig.cache
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/MvcMovie.csproj.CopyComplete
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Humanizer.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Composition.Convention.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Composition.Hosting.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Composition.Runtime.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Movies/Create.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Movies/Delete.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Movies/Details.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Movies/Edit.cshtml.g.cs
+/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/Debug/net5.0/Razor/Views/Movies/Index.cshtml.g.cs

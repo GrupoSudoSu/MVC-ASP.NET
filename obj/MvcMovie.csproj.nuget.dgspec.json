@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projeto Dotnet\\MvcMovie\\MvcMovie.csproj": {}
+    "/home/kelvin/Documentos/GitHub/MVC-ASP.NET/MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projeto Dotnet\\MvcMovie\\MvcMovie.csproj": {
+    "/home/kelvin/Documentos/GitHub/MVC-ASP.NET/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projeto Dotnet\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "/home/kelvin/Documentos/GitHub/MVC-ASP.NET/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projeto Dotnet\\MvcMovie\\MvcMovie.csproj",
-        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projeto Dotnet\\MvcMovie\\obj\\",
+        "projectPath": "/home/kelvin/Documentos/GitHub/MVC-ASP.NET/MvcMovie.csproj",
+        "packagesPath": "/home/kelvin/.nuget/packages/",
+        "outputPath": "/home/kelvin/Documentos/GitHub/MVC-ASP.NET/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/kelvin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -37,6 +37,26 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
